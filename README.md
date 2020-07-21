@@ -1,4 +1,4 @@
-### Before you get started
+### Captcha Breaker Basic (4 letter WordPress Captcha - 99.8 % accuracy)
 
 To run these scripts, you need the following installed:
 
